@@ -1,0 +1,9 @@
+{
+  "name": "co-search",
+  "main": ["co-search.js"],
+  "description": "managing paginated searches with CoTag APIs",
+  "dependencies": {
+    "angular": "1.x"
+  },
+  "devDependencies": {}
+}
